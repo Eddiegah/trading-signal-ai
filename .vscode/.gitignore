@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+results/best_model.pth
+results/scaler.pkl

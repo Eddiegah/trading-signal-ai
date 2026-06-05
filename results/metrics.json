@@ -1,0 +1,5 @@
+{
+  "ticker": "AAPL",
+  "test_accuracy": 0.4519,
+  "best_val_accuracy": 0.3542
+}
